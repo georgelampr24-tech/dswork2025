@@ -1,0 +1,74 @@
+# ======================
+# IDEs
+# ======================
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# ======================
+# Build folders
+# ======================
+
+# Maven
+/target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Gradle
+.gradle
+build/
+
+# ======================
+# Compiled files
+# ======================
+*.class
+
+# ======================
+# Logs
+# ======================
+*.log
+/spring.log
+
+# ======================
+# Packages
+# ======================
+*.jar
+*.war
+*.ear
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Extra project files
+# ======================
+HELP.md
